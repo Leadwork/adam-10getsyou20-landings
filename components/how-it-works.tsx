@@ -13,12 +13,12 @@ const steps = [
     icon: FileText,
     title: "We produce everything",
     description:
-      "Vertical edits, captions, custom thumbnails, licensed audio, and a 10-day posting schedule — all built around your listing.",
+      "Vertical edits, captions, custom call-to-action endings, licensed audio, and two free revisions per video — all built around your listing.",
   },
   {
     n: "03",
     icon: Send,
-    title: "48-hour turnaround",
+    title: "2-day turnaround",
     description:
       "You receive 20 ready-to-publish short-form videos within two business days, sent for your approval before anything goes live.",
   },
@@ -40,7 +40,7 @@ export function HowItWorks() {
             How It Works
           </p>
           <h2 className="mt-3 font-display text-3xl font-semibold tracking-tight text-brand-blue text-balance sm:text-4xl md:text-5xl">
-            One conversation. Twenty videos. Two-day turnaround.
+            One conversation. Twenty videos. Two days.
           </h2>
         </div>
 

@@ -1,15 +1,5 @@
-import {
-  Film,
-  Camera,
-  Layout,
-  Newspaper,
-  ImageIcon,
-  MessagesSquare,
-  ClipboardList,
-  ShieldCheck,
-} from "lucide-react";
 import type { SiteConfig } from "./types";
-import { SHARED_HERO } from "./shared";
+import { SHARED_HERO, SHARED_SERVICES } from "./shared";
 
 export const mediaConfig: SiteConfig = {
   id: "media",
@@ -35,61 +25,7 @@ export const mediaConfig: SiteConfig = {
       "10GetsYou20 Media · A production division of the 10GetsYou20 brand",
   },
 
-  services: {
-    heading: "A full media package, from one session.",
-    subheading:
-      "Every listing turned into a package of short-form media assets — the same core coverage a full-day shoot would give you, without the schedule.",
-    items: [
-      {
-        icon: Film,
-        title: "Listing Media",
-        description:
-          "A production pass on every listing — filmed, edited, and packaged for social from one conversation.",
-      },
-      {
-        icon: Camera,
-        title: "Story Cuts",
-        description:
-          "Vertical story segments built around the moments buyers remember from a home.",
-      },
-      {
-        icon: Layout,
-        title: "Multi-Platform Delivery",
-        description:
-          "Every asset reformatted for the platforms your audience actually spends time on.",
-      },
-      {
-        icon: Newspaper,
-        title: "Metadata Kit",
-        description:
-          "Titles, descriptions, and hashtags shipped with the video set — nothing left for you to write.",
-      },
-      {
-        icon: ImageIcon,
-        title: "Custom Thumbnails",
-        description:
-          "Branded, high-converting thumbnails per asset, tuned to the tap.",
-      },
-      {
-        icon: MessagesSquare,
-        title: "Producer-Led Interviews",
-        description:
-          "A guided 10-minute conversation with a U.S. producer replaces the script and the shoot day.",
-      },
-      {
-        icon: ClipboardList,
-        title: "Posting Playbook",
-        description:
-          "A day-by-day plan for how each asset drops across your platforms.",
-      },
-      {
-        icon: ShieldCheck,
-        title: "Content Approval",
-        description:
-          "Everything delivered to you first — nothing goes live without your sign-off.",
-      },
-    ],
-  },
+  services: SHARED_SERVICES,
 
   accentHue: 225,
 };

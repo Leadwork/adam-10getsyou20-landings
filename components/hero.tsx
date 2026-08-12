@@ -109,7 +109,7 @@ export function Hero({ config }: HeroProps) {
                 {[
                   "No prep required",
                   "No script to memorize",
-                  "No camera or mic on you",
+                  "Same setup as a Zoom meeting",
                   "U.S.-based producer",
                 ].map((li) => (
                   <li key={li} className="flex items-center gap-2">
@@ -132,7 +132,7 @@ export function Hero({ config }: HeroProps) {
                   Production
                 </span>
                 <span className="rounded-full bg-brand-violet/10 px-2.5 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-brand-violet">
-                  48 hrs
+                  2 days
                 </span>
               </div>
               <div className="mt-6 flex h-11 w-11 items-center justify-center rounded-xl bg-brand-blue text-white">
@@ -142,14 +142,14 @@ export function Hero({ config }: HeroProps) {
                 Edited, captioned, packaged.
               </p>
               <p className="mt-1.5 text-sm text-muted-foreground">
-                A studio pass on every clip — no back-and-forth.
+                This is the magic — 20 optimized short-form videos in 2 days.
               </p>
               <ul className="mt-5 space-y-2 text-[13px] text-brand-blue/90">
                 {[
-                  "Vertical 9:16 cuts",
-                  "Hook-first captions",
-                  "Licensed audio & motion",
-                  "Custom thumbnails × 20",
+                  "Real humans who understand real estate, not AI",
+                  "Optimized for all major platforms",
+                  "Personalized with your brand & media",
+                  "High-production value — music, transitions, CTA",
                 ].map((li) => (
                   <li key={li} className="flex items-center gap-2">
                     <span className="flex h-4 w-4 shrink-0 items-center justify-center rounded-full bg-brand-violet/15">
@@ -196,10 +196,10 @@ export function Hero({ config }: HeroProps) {
                 </p>
                 <ul className="mt-5 space-y-2 text-[13px] text-white/90">
                   {[
-                    "Reels, Shorts, TikTok — vertical",
-                    "Custom thumbnails × 20",
-                    "10-day posting schedule",
-                    "Titles & descriptions",
+                    "Reels, Shorts, TikTok — ready-to-post",
+                    "Custom ending with call-to-action",
+                    "Two free revisions per video",
+                    "We can post for you (optional)",
                   ].map((li) => (
                     <li key={li} className="flex items-center gap-2">
                       <span className="flex h-4 w-4 shrink-0 items-center justify-center rounded-full bg-white/20">

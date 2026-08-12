@@ -1,8 +1,8 @@
 const stats = [
   { value: "10 min", label: "Guided conversation — no prep, no script" },
   { value: "20", label: "Reels & Shorts per session, ready to publish" },
-  { value: "48 hrs", label: "Turnaround from conversation to delivery" },
-  { value: "10 days", label: "Posting schedule delivered with every set" },
+  { value: "2 days", label: "From conversation to delivery, every time" },
+  { value: "2 free", label: "Revisions per video — delivered fast" },
 ];
 
 export function Stats() {

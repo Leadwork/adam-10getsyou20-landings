@@ -10,12 +10,12 @@ const deliverables: Deliverable[] = [
   {
     qty: "20",
     title: "Short-form videos",
-    description: "Portrait 9:16, captioned, hook-optimized for every platform.",
+    description: "Vertical 9:16, captioned, hook-optimized for every platform.",
   },
   {
     qty: "20",
-    title: "Custom thumbnails",
-    description: "Branded, high-converting, tuned to earn the tap.",
+    title: "Custom Call-to-Action",
+    description: "Branded, high-converting — turn viewers into leads.",
   },
   {
     qty: "20",
@@ -28,9 +28,9 @@ const deliverables: Deliverable[] = [
     description: "Suggested metadata for every video, ready to paste in.",
   },
   {
-    qty: "10 days",
-    title: "Posting schedule",
-    description: "A day-by-day plan mapped across each platform you use.",
+    qty: "2 days",
+    title: "Fast Delivery",
+    description: "All video packages are delivered within two business days of the conversation.",
   },
   {
     qty: "100%",

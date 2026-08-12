@@ -43,7 +43,7 @@ export function Team() {
       <div className="container">
         <div className="mx-auto max-w-2xl text-center">
           <p className="text-xs font-semibold uppercase tracking-[0.18em] text-brand-violet">
-            Our Hosts
+            Our Producers
           </p>
           <h2 className="mt-3 font-display text-3xl font-semibold tracking-tight text-brand-blue text-balance sm:text-4xl md:text-5xl">
             The people behind the conversations.

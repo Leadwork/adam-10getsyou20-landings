@@ -8,7 +8,6 @@ import { RealProducers } from "@/components/real-producers";
 import { WhyChooseUs } from "@/components/why-choose-us";
 import { Team } from "@/components/team";
 import { About } from "@/components/about";
-import { Pricing } from "@/components/pricing";
 import { Faq } from "@/components/faq";
 import { ContactCta } from "@/components/contact-cta";
 import { Footer } from "@/components/footer";
@@ -31,7 +30,6 @@ export default function Home() {
         <WhyChooseUs />
         <Team />
         <About brandFull={full} />
-        <Pricing />
         <Faq />
         <ContactCta />
       </main>

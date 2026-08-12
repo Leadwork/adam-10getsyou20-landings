@@ -92,7 +92,7 @@ export function About({ brandFull }: AboutProps) {
                       Turnaround
                     </dt>
                     <dd className="mt-1 font-display text-3xl font-semibold tracking-tight text-white">
-                      48 hrs
+                      2 days
                     </dd>
                     <p className="text-xs text-white/60">
                       Conversation to delivery

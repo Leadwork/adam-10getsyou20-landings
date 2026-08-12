@@ -12,19 +12,15 @@ const faqs = [
   },
   {
     q: "How long does it take?",
-    a: "48 hours from your conversation to delivery. You receive 20 short-form videos, a 10-day posting schedule, custom thumbnails, and metadata — all sent for your approval before anything goes live.",
+    a: "48 hours from your conversation to delivery. You receive 20 short-form videos, a call-to-action end screen, and metadata — all sent for your approval before anything goes live.",
   },
   {
     q: "Do I need to prep or bring equipment?",
-    a: "No. Your producer guides the whole 10-minute conversation. No script, no equipment on your end, no editing. If you can talk about your listing, you're ready.",
+    a: "No. Nothing more than you need to prepare for a Zoom meeting with a potential client. Show up professional and on-time. We take care of everything else.",
   },
   {
     q: "What platforms are supported?",
     a: "We deliver formats optimized for Instagram Reels, Facebook, YouTube Shorts, TikTok, and other short-form placements. You can post directly — no re-editing needed on your side.",
-  },
-  {
-    q: "How does the monthly plan work?",
-    a: "Our monthly plan runs on a 3-month minimum so audience momentum has time to build. After the minimum, it continues month-to-month at the same rate and can be cancelled with 30 days notice. Prefer to try a single session first? That works too.",
   },
   {
     q: "Can I use my own branding?",
