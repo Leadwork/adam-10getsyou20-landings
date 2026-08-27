@@ -2,7 +2,7 @@ import { Mail, Calendar } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const CALENDLY =
-  "https://calendly.com/d/dv2z-8dc-g8v/10-minute-real-estate-demo";
+  "https://calendly.com/d/dz5h-8x7-6dy/10-minute-real-estate-demo";
 
 export function ContactCta() {
   return (

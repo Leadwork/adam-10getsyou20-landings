@@ -103,7 +103,7 @@ export function Hero({ config }: HeroProps) {
                 One guided conversation.
               </p>
               <p className="mt-1.5 text-sm text-muted-foreground">
-                Casual, producer-led, over the phone or on video.
+                Natural, on video, just like talking to a buyer on Zoom.
               </p>
               <ul className="mt-5 space-y-2 text-[13px] text-brand-blue/90">
                 {[
