@@ -15,7 +15,7 @@ import type { SiteConfig } from "./types";
  * Contact section. Comes from the parent brand at 10getsyou20.com.
  */
 export const CALENDLY_URL =
-  "https://calendly.com/d/dv2z-8dc-g8v/10-minute-real-estate-demo";
+  "https://calendly.com/d/dz5h-8x7-6dy/10-minute-real-estate-demo";
 
 /**
  * The parent brand's canonical marketing site.
